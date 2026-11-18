@@ -1,0 +1,7 @@
+#ignore venv files
+
+.venv/
+venv
+
+# ignore .env file
+.env
